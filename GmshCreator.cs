@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace AcGmsh
 {
-    public class Class1
+    public class GmshCreator
     {
     }
 }
